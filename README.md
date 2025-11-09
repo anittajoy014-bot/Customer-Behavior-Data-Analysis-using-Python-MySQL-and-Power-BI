@@ -1,2 +1,5 @@
 # Customer-Behavior-Data-Analysis-using-Python-MySQL-and-Power-BI
-This project focuses on analyzing customer purchasing behavior using a combination of Python, MySQL, and Power BI. The objective is to uncover key insights into sales trends, purchase frequency, and product preferences to support data-driven business decisions.
+This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+
+
+📌 Project Overview
