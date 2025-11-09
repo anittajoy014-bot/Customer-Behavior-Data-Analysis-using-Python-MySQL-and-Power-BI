@@ -12,8 +12,9 @@ Reporting & Presentation: Gamma
 
 Project Workflow:
 Data Loading: Imported dataset into Python.
-Exploratory Data Analysis (EDA):Checked missing values, duplicates, and data distributions
-Identified patterns, trends, and anomalies
+
+Exploratory Data Analysis (EDA):Checked missing values, duplicates, and data distributions 
+                                Identified patterns, trends, and anomalies
 Data Cleaning:Handled missing values and outliers Standardized data formats
 SQL Queries:Created database tables and inserted cleaned data
             Ran queries to extract insights and summaries
