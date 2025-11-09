@@ -1,17 +1,19 @@
 # Customer-Behavior-Data-Analysis-using-Python-MySQL-and-Power-BI
-Overview
+📌Project Overview
 
 This project demonstrates a complete data analytics workflow, from exploring and cleaning data to generating insights and visualizations. The aim is to understand the dataset, identify patterns, and present results through an interactive dashboard and professional report.
 
-Tools Used:
+✅Tools Used:
 
-Python: Pandas, NumPy, Matplotlib, Seaborn
+*Python: Pandas, NumPy, Matplotlib, Seaborn
 
-SQL Databases: MySQL 
-Visualization: Power BI
-Reporting & Presentation: Gamma
+*SQL Databases: MySQL 
 
-Project Workflow:
+*Visualization: Power BI
+
+*Reporting & Presentation: Gamma
+
+✅Project Workflow:
 
 Data Loading: Imported dataset into Python.
 
@@ -28,7 +30,7 @@ Dashboard Creation: Built an interactive Power BI dashboard to visualize key met
 Report & Presentation: Summarized insights in a report and professional PPT using Gamma.
 
 
-Dashboard Highlights:
+✅Dashboard Highlights:
 
 *Key KPIs visualized for quick understanding
 
