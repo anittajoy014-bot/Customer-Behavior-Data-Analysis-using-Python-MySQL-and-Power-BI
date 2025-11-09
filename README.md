@@ -39,7 +39,7 @@ Report & Presentation: Summarized insights in a report and professional PPT usin
 *Interactive filters to explore the dataset
 
 
-Key Insights:
+✅Key Insights:
 
 *Identified [top-performing products/customers, trends, or patterns]
 
